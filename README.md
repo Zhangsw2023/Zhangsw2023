@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Zhangsw2023
-- 👀 I’m interested in robot.
-- 🌱 I’m currently learning robot.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 2576997228@qq.com or zhangsiwen2019@gmail.com
 
 <!---
